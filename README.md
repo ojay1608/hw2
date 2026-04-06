@@ -58,4 +58,4 @@ hw2-oj/
 ---
 
 ## Walkthrough Video
-[Video link to be added after recording]
+https://www.youtube.com/watch?v=wmdewNXPJJs

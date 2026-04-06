@@ -1,0 +1,45 @@
+Case ID: case_004
+Type: edge
+Description: Out-of-network denial for emergency service
+Expected criteria: Letter should cite the No Surprises Act by name, assert the patient had no meaningful choice of provider in an emergency, and request the claim be reprocessed at in-network rates. Legal references should be accurate.
+Tokens used: 927
+
+────────────────────────────────────────────────────────────
+
+[LETTERHEAD]
+
+Georgetown University Hospital Emergency Department
+[Address]
+[Phone Number]
+[Fax Number]
+
+---
+
+**[DATE]**
+
+Cigna Insurance Company
+Claims Review Department
+[Address]
+
+**Re: Appeal of Denial – Claim CLM-2026-20089 | Denial Code CO-97 | CPT 99285 (Emergency Department Visit and Stabilization)**
+
+---
+
+Dear Cigna Claims Review Team,
+
+We respectfully appeal the denial of payment for emergency department visit and stabilization (CPT 99285) provided to [Patient Name], DOB [DOB], on [Date of Service]. Cigna denied this claim under code CO-97, asserting that the benefit is included in payment for another service or procedure. We contend this denial is improper and contrary to federal law.
+
+The patient presented to Georgetown University Hospital Emergency Department during an acute cardiac emergency and received medically necessary stabilization services. Under the No Surprises Act (H.R. 133, enacted December 2020), emergency services are explicitly protected from balance billing and denial based on network status or service bundling. Federal law requires that emergency services be paid at in-network cost-sharing rates regardless of whether the emergency department or treating provider is in-network. 42 U.S.C. § 300gg-111 mandates this protection for emergency services defined as those requiring immediate care to prevent serious jeopardy to health.
+
+The denial rationale—that this service's benefit is included in another procedure's payment—does not align with applicable federal statute or established emergency medicine coding practices. The emergency department visit code (CPT 99285) represents a distinct, separately billable service reflecting the physician's evaluation, stabilization, and medical decision-making during an acute emergency. This code is not bundled into subsequent inpatient or procedural codes under standard billing conventions and is explicitly recognized by CMS and virtually all payers as separately payable.
+
+We request immediate reconsideration and payment of this claim at the in-network rate. Complete clinical documentation, emergency department records, and coding certifications are available for your review upon request.
+
+Respectfully,
+
+[Name]  
+[Title]  
+[Credentials if applicable]  
+Georgetown University Hospital Emergency Department
+
+**Contact:** [Phone] | [Fax] | [Email]

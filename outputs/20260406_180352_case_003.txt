@@ -1,0 +1,39 @@
+Case ID: case_003
+Type: edge
+Description: Denial with almost no supporting context provided
+Expected criteria: With minimal context, the model should still produce a structurally valid appeal letter, acknowledge that modifier documentation will be provided, and avoid hallucinating specific clinical details. Should flag that human review is needed before sending.
+Tokens used: 704
+
+────────────────────────────────────────────────────────────
+
+[LETTERHEAD - SURGICAL ASSOCIATES OF DC]
+
+[Date]
+
+VIA CERTIFIED MAIL
+
+UnitedHealthcare Appeals Department
+[Address]
+
+**Re: Appeal of Denial – Claim CLM-2026-77301 | Denial Code CO-4**
+
+---
+
+Dear UnitedHealthcare Appeals Team,
+
+We are writing to appeal the denial of the surgical procedure on claim CLM-2026-77301, which was denied under denial code CO-4 (Service inconsistent with modifier) on the basis that modifier -51 (Multiple Procedures) was improperly applied.
+
+**Basis for Appeal**
+
+Modifier -51 is the appropriate indicator when multiple distinct surgical procedures are performed during a single operative session by the same surgeon. This modifier is required by CPT guidelines and informs the payer that multiple procedures were rendered, which typically triggers automatic reduction of the secondary procedure(s) per the fee schedule. The application of modifier -51 in this instance is consistent with both CPT coding standards and UnitedHealthcare's own billing guidelines.
+
+The denial appears to reflect an automated system flag rather than clinical inconsistency. The modifier correctly describes the billing scenario and does not contradict the medical necessity or appropriateness of the services rendered.
+
+We respectfully request that UnitedHealthcare reconsider this denial and process the claim accordingly. Complete clinical documentation supporting medical necessity for all procedures, operative reports, and detailed coding justification will be provided under separate cover upon request.
+
+Sincerely,
+
+[Provider Name]  
+[Title]  
+Surgical Associates of DC  
+[Contact Information]

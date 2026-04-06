@@ -1,0 +1,44 @@
+Case ID: case_005
+Type: likely_to_fail
+Description: Highly technical prior authorization dispute with clinical coding complexity
+Expected criteria: This case is likely to require human clinical expertise. Model may hallucinate specific qSOFA thresholds or Surviving Sepsis Campaign criteria. Output should be reviewed by a clinical coder or physician advisor before submission. A good output references the clinical guidelines correctly and challenges the retroactive denial logic.
+Tokens used: 893
+
+────────────────────────────────────────────────────────────
+
+**APPEAL LETTER – INSURANCE DENIAL**
+
+---
+
+Johns Hopkins Hospital  
+Department of Revenue Cycle  
+Baltimore, MD 21287  
+Phone: (410) 955-5000  
+
+[Date]
+
+Humana Insurance Company  
+Claims Review Department  
+[Address]
+
+**Re: Appeal of Denial – Claim CLM-2026-55904 | Denial Code CO-167**
+
+---
+
+Dear Review Team,
+
+We respectfully appeal Humana's denial of inpatient admission for sepsis management (DRG 871) under denial code CO-167 on the basis that the admission does not meet the definition of emergency or urgent care. The clinical evidence and applicable clinical guidelines demonstrate that this admission was medically necessary and constituted an emergency presentation requiring immediate inpatient intervention.
+
+The patient presented with sepsis secondary to a urinary tract infection with a qSOFA score of 2, meeting clinical criteria for sepsis as defined by the Surviving Sepsis Campaign guidelines. Sepsis is a life-threatening condition characterized by organ dysfunction caused by a dysregulated host response to infection. Per the Surviving Sepsis Campaign Clinical Practice Guidelines—the gold standard in sepsis management—patients meeting sepsis criteria require immediate comprehensive evaluation, fluid resuscitation, vasopressor support if indicated, and broad-spectrum antimicrobial therapy, all of which necessitate acute inpatient hospitalization. A qSOFA score of 2 indicates a significantly elevated mortality risk and warrants urgent admission for intensive monitoring and management.
+
+Importantly, prior authorization was obtained before admission, confirming that Humana determined the admission to be medically appropriate at the time of precertification. The retroactive denial contradicts the payer's own concurrent clinical determination and creates an untenable situation in which the provider cannot rely on prior authorization decisions.
+
+We request that Humana reconsider and reverse this denial. Supporting documentation, including admission orders, sepsis protocol documentation, the qSOFA assessment, and the prior authorization approval, will be provided under separate cover if required.
+
+Sincerely,
+
+[Provider Name and Title]  
+Johns Hopkins Hospital  
+[Contact Information]
+
+---

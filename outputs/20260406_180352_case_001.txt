@@ -1,0 +1,44 @@
+Case ID: case_001
+Type: normal
+Description: Standard medical necessity denial for an MRI
+Expected criteria: Letter should cite clinical history, reference failed conservative treatment, and request reconsideration based on medical necessity. Tone should be professional and factual.
+Tokens used: 755
+
+────────────────────────────────────────────────────────────
+
+---
+
+**CAPITAL REGION ORTHOPEDICS**
+
+[Provider Address]
+[Phone Number]
+[Fax Number]
+
+---
+
+**DATE:** [Insert current date]
+
+**TO:** BlueCross BlueShield
+[Appeals Department Address]
+
+---
+
+**RE:** Appeal of Denial – Claim CLM-2024-88421 | Denial Code CO-50 | Medical Necessity
+
+---
+
+Dear Appeals Reviewer:
+
+We respectfully appeal the denial of coverage for MRI of the lumbar spine (Claim CLM-2024-88421) on the grounds that medical necessity was not established. We believe this denial does not align with clinical evidence and your plan's own imaging guidelines.
+
+The patient presented with a six-week history of lower back pain accompanied by radiculopathy. Prior to the MRI request, conservative management—including physical therapy—was attempted without clinical improvement. At the six-week threshold with persistent radiculopathy despite conservative care, MRI of the lumbar spine is medically necessary to identify structural pathology (e.g., disc herniation, stenosis) that may warrant additional intervention and to rule out serious etiologies. The patient's symptomatology and failed conservative treatment meet clinical criteria for advanced imaging as outlined in standard orthopedic practice guidelines and evidence-based protocols for the evaluation of radiculopathy.
+
+We respectfully request that BlueCross BlueShield reconsider this denial and overturn the CO-50 determination. Complete clinical documentation, including imaging request notes and physical therapy records, will be provided under separate cover as needed to support this appeal.
+
+Sincerely,
+
+[Provider Name]
+[Title]
+[NPI Number]
+
+---
