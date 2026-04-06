@@ -1,0 +1,43 @@
+Case ID: case_004
+Type: edge
+Description: Out-of-network denial for emergency service
+Expected criteria: Letter should cite the No Surprises Act by name, assert the patient had no meaningful choice of provider in an emergency, and request the claim be reprocessed at in-network rates. Legal references should be accurate.
+Tokens used: 883
+
+────────────────────────────────────────────────────────────
+
+[LETTERHEAD]
+
+Georgetown University Hospital Emergency Department
+[Address]
+[Phone Number]
+[Fax Number]
+
+[Date]
+
+Cigna Insurance Company
+Claims Department
+[Address]
+
+**Re: Appeal of Denial – Claim CLM-2026-20089 | CPT 99285 | Denial Code CO-97**
+
+---
+
+Dear Cigna Claims Department:
+
+We are writing to appeal the denial of claim CLM-2026-20089 for emergency department evaluation and management services (CPT 99285) provided to [Patient Name] on [Date of Service]. Cigna denied the claim with code CO-97, indicating the benefit is included in another service's payment. This denial is contrary to federal law and policy requirements governing emergency services.
+
+**Legal and Regulatory Basis for Appeal**
+
+The No Surprises Act (49 U.S.C. § 300gg–111) mandates that emergency services be covered at in-network cost-sharing rates regardless of whether the provider or facility is in the patient's network. The statute explicitly protects patients from surprise billing and requires insurers to apply network-level benefits to all emergency care. The emergency department visit and stabilization (CPT 99285) represents a distinct, clinically necessary service that initiated the patient's emergency treatment for an acute cardiac event and cannot be considered "included" in subsequent procedures performed during the same episode of care.
+
+The denial rationale—that payment is included in another service—does not reflect the coding structure for emergency department services, which are independently billable and separately valuated by both Medicare and commercial payers when clinically appropriate. The emergency evaluation itself (assessment, stabilization, and decision-making) is a distinct service from any procedures that may follow.
+
+We respectfully request that Cigna reconsider this denial, reverse the CO-97 determination, and process payment for CPT 99285 at the applicable in-network allowance. Complete clinical documentation, including the emergency department record, is available under separate cover upon request.
+
+Sincerely,
+
+[Billing Manager Name]
+[Title]
+[Provider Entity]
+[Contact Information]

@@ -1,0 +1,37 @@
+Case ID: case_001
+Type: normal
+Description: Standard medical necessity denial for an MRI
+Expected criteria: Letter should cite clinical history, reference failed conservative treatment, and request reconsideration based on medical necessity. Tone should be professional and factual.
+Tokens used: 764
+
+────────────────────────────────────────────────────────────
+
+[LETTERHEAD – Capital Region Orthopedics]
+
+[Date]
+
+BlueCross BlueShield
+Appeals Department
+[Address]
+
+**Re: Appeal of Denial – Claim CLM-2024-88421 | CO-50 | MRI Lumbar Spine**
+
+Dear Claims Reviewer,
+
+We are writing to appeal BlueCross BlueShield's denial of claim CLM-2024-88421 for MRI of the lumbar spine, performed on [service date], on the grounds that medical necessity was not established (denial code CO-50). We respectfully submit that this denial should be reversed based on the clinical presentation and documented treatment history.
+
+The patient presented with a six-week history of lower back pain accompanied by radiculopathy. Conservative management, including physical therapy, was initiated and pursued without achieving clinical improvement. Under established clinical guidelines, imaging of the lumbar spine is medically appropriate when conservative treatment fails to resolve radicular symptoms, as it is necessary to identify underlying structural pathology that may require intervention beyond conservative care. The MRI was ordered to establish a diagnosis and determine whether further treatment is indicated—a clear medical necessity.
+
+We have attached the clinical notes documenting the patient's radicular symptoms, the duration and course of conservative treatment, and the physician's clinical justification for advanced imaging. We request that BlueCross BlueShield reconsider this denial in light of the clinical documentation provided and overturn the CO-50 determination.
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,
+
+[Provider Name]
+[Title]
+[Provider NPI]
+Capital Region Orthopedics
+[Contact Information]
+
+**Enclosures:** Clinical notes, treatment records, imaging order with clinical justification

@@ -1,0 +1,53 @@
+Case ID: case_003
+Type: edge
+Description: Denial with almost no supporting context provided
+Expected criteria: With minimal context, the model should still produce a structurally valid appeal letter, acknowledge that modifier documentation will be provided, and avoid hallucinating specific clinical details. Should flag that human review is needed before sending.
+Tokens used: 766
+
+────────────────────────────────────────────────────────────
+
+---
+
+**SURGICAL ASSOCIATES OF DC**
+[Provider Address]
+[Phone Number] | [Fax Number]
+
+[Date]
+
+**VIA CERTIFIED MAIL**
+
+UnitedHealthcare
+Claims Department
+[Address]
+
+**Re: Denial Appeal – Claim CLM-2026-77301 | Denial Code CO-4**
+
+Dear Claims Review Manager,
+
+We are submitting this appeal of the denial for the surgical procedure billed under Claim CLM-2026-77301 on the basis that the service was incorrectly denied as inconsistent with modifier -51 (Multiple Procedures).
+
+**Claim Details:**
+- **Claim Reference:** CLM-2026-77301
+- **Provider:** Surgical Associates of DC
+- **Denial Code:** CO-4 (Service inconsistent with modifier)
+- **Service:** Surgical procedure with modifier -51
+
+**Basis for Appeal:**
+
+Modifier -51 (Multiple Procedures) was appropriately applied to this claim to indicate that multiple distinct and separately billable surgical procedures were performed during the same operative session. The denial suggests the procedure reported does not support use of this modifier; however, the clinical circumstances of this case justify its application.
+
+Supporting clinical documentation detailing the distinct procedural elements, operative reports, and medical necessity for the multiple procedures will be provided under separate cover for your clinical review team's consideration.
+
+We respectfully request that UnitedHealthcare reconsider this denial in light of the supporting documentation to be submitted and issue payment for the claimed service. Please contact our office if any additional information is required.
+
+Sincerely,
+
+**SURGICAL ASSOCIATES OF DC**
+
+[Authorized Signature]
+[Printed Name and Title]
+[Contact Phone Number]
+
+---
+
+**Note:** Submit supporting operative reports, itemized procedure details, and clinical documentation separately within 10 business days of this letter.

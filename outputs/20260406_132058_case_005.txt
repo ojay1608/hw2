@@ -1,0 +1,36 @@
+Case ID: case_005
+Type: likely_to_fail
+Description: Highly technical prior authorization dispute with clinical coding complexity
+Expected criteria: This case is likely to require human clinical expertise. Model may hallucinate specific qSOFA thresholds or Surviving Sepsis Campaign criteria. Output should be reviewed by a clinical coder or physician advisor before submission. A good output references the clinical guidelines correctly and challenges the retroactive denial logic.
+Tokens used: 872
+
+────────────────────────────────────────────────────────────
+
+[LETTERHEAD – JOHNS HOPKINS HOSPITAL]
+
+[DATE]
+
+Humana Insurance Company
+Claims Review Department
+[ADDRESS]
+
+**Re: Appeal of Denial – Claim CLM-2026-55904**
+**Denial Code: CO-167 | Service: Inpatient Admission for Sepsis Management (DRG 871)**
+
+Dear Claims Review Manager:
+
+We are writing to appeal Humana's denial of the inpatient admission for sepsis management under claim CLM-2026-55904. The claim was denied under code CO-167 with the rationale that the admission did not meet the definition of emergency or urgent care. We respectfully submit that this denial is medically inappropriate and should be reversed.
+
+The patient presented with sepsis secondary to a documented urinary tract infection and was admitted for inpatient management. At the time of admission, the patient's qSOFA (Quick Sequential Organ Failure Assessment) score was 2, placing the patient at significant risk for clinical deterioration and adverse outcomes. Per the Surviving Sepsis Campaign clinical guidelines—the gold standard for sepsis management—a qSOFA score of ≥2 identifies high-risk patients requiring immediate hospital-level intervention. Inpatient admission for hemodynamic monitoring, fluid resuscitation, antibiotics, and organ support monitoring is the standard of care and is, by definition, both emergent and medically necessary.
+
+We note that prior authorization for this admission was obtained from Humana at the time of service, indicating clinical acceptance by the payer's own utilization review process. The retroactive denial contradicts both the clinical appropriateness of the care and the payer's contemporaneous authorization decision.
+
+We request that Humana immediately reconsider and overturn this denial. Detailed clinical documentation, the admission H&P, laboratory values, vital signs, and sepsis protocol records are available upon request and will be provided under separate cover if needed.
+
+Sincerely,
+
+[Name]
+[Title]
+Revenue Cycle Department
+Johns Hopkins Hospital
+[Contact Information]

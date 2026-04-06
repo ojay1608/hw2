@@ -1,0 +1,41 @@
+Case ID: case_002
+Type: normal
+Description: Duplicate claim denial
+Expected criteria: Letter should clearly distinguish the two claims by date, provide the original claim number for reference, and request the denial be overturned. Should be brief and direct.
+Tokens used: 776
+
+────────────────────────────────────────────────────────────
+
+# METRO PRIMARY CARE ASSOCIATES
+
+[Provider Address]
+[Provider Phone] | [Provider Fax]
+
+---
+
+**[Date]**
+
+**Aetna Insurance Company**
+Claims Review Department
+[Aetna Address]
+
+---
+
+**Re: Appeal of Denial – Claim CLM-2026-44102 | Denial Code CO-18**
+
+Dear Aetna Claims Review Team,
+
+We are writing to appeal the denial of claim CLM-2026-44102 for a duplicate claim or service (denial code CO-18). The claim in question is for an office visit (CPT 99214) rendered on **March 15, 2026** to [patient name], and we respectfully request that this denial be overturned.
+
+This denial was issued in error. The referenced claim CLM-2026-43891 was submitted for a separate office visit on **March 10, 2026**—five calendar days prior to the service at issue. These are two distinct encounters with different dates of service and separate clinical purposes. The March 15 visit represents a legitimate, separate patient encounter and is not a duplicate submission of the March 10 claim.
+
+We have submitted the correct claim information and can provide documentation of both visit dates, encounter notes, and billing records to confirm the distinction between these two services upon request. We ask that Aetna reconsider this denial and process claim CLM-2026-44102 according to the patient's benefit structure.
+
+We appreciate your prompt attention to this matter and look forward to your response.
+
+Sincerely,
+
+[Billing Provider Name]  
+[Title]  
+Metro Primary Care Associates  
+[Provider ID/NPI]
