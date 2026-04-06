@@ -58,3 +58,13 @@ More broadly, any case involving:
 3. A feedback loop where billing specialists rate letter quality to enable prompt refinement over time
 
 The prototype should not be deployed autonomously. It is a force multiplier for billing specialists, not a replacement for clinical judgment.
+
+---
+
+## Real Output Example (Case 1 — Final Prompt v3)
+
+The following is an excerpt from the actual output generated for case_001 (standard medical necessity denial for an MRI):
+
+> "The patient presented with a six-week history of lower back pain accompanied by radiculopathy. Conservative management, including physical therapy, was initiated and pursued without achieving clinical improvement. Under established clinical guidelines, imaging of the lumbar spine is medically appropriate when conservative treatment fails to resolve radicular symptoms..."
+
+This output met all expected criteria: it cited the clinical history, referenced failed conservative treatment, used the correct denial code (CO-50), and maintained a professional tone. Compared to the baseline prompt (v1), which produced generic boilerplate like "we believe this claim should be reconsidered," the final prompt produced a specific, clinically grounded justification ready for specialist review.
